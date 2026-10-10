@@ -1,0 +1,1 @@
+"I want name of 10 cities for country name {country} as list {format} "

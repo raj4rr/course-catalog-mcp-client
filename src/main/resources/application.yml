@@ -1,0 +1,7 @@
+spring:
+  ai:
+    mcp:
+      client:
+        stdio:
+          # Points to the classpath-based JSON file containing server manifests
+          servers-configuration: "classpath:/mcp.json"

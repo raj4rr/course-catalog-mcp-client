@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "course-catalog": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/rajesh/Desktop/Java/mcpserverstdio/target/mcp-server-stdio.jar"
+      ]
+    }
+  }
+}
