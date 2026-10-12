@@ -17,7 +17,7 @@
     <artifactId>course-catalog-mcp-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>ai-course</name>
+    <name>course-catalog-mcp-client</name>
     <description>mcp-client</description>
 
     <properties>
